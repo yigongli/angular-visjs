@@ -63,7 +63,7 @@ angular.module('ngVis', [])
                         angular.isFunction(scope.events.onload)) {
                         scope.events.onload(timeline);
                     }
-                });
+                },true);
 
                 scope.$watchCollection('options', function (options) {
                     if (timeline == null) {

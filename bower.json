@@ -1,7 +1,7 @@
 {
-  "name": "angular-visjs",
+  "name": "bkm-angular-visjs",
   "version": "4.16.0",
-  "homepage": "https://github.com/visjs/angular-visjs",
+  "homepage": "https://github.com/yigongli/angular-visjs",
   "authors": [
     "Chris Jackson <chris@cd-jackson.com>"
   ],
